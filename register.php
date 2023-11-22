@@ -10,7 +10,7 @@
     <div class="container">
         <div class="form-container sign-up-container">
             <form action="#">
-                <h1>Create Account</h1>
+                <h1>Crear una cuenta</h1>
                 <input type="text" placeholder="Name" />
                 <input type="email" placeholder="Email" />
                 <input type="password" placeholder="Password" />
@@ -22,7 +22,7 @@
                 <div class="overlay-panel overlay-right">
                     <h1>¡Hola!</h1>
                     <p>Comienza tu viaje con nosotros.</p>
-                    <a href="./index.html">Sing up</a>
+                    <a href="./login.html">Sing up</a>
                 </div>
             </div>
         </div>
